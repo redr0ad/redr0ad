@@ -1,5 +1,5 @@
 ### Levi H (@redr0ad)
-<img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=redr0ad&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+<img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=redr0ad&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 
 <!--
 **redr0ad/redr0ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
