@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=redr0ad&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
 <!--
 **redr0ad/redr0ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
